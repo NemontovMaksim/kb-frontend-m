@@ -1,6 +1,7 @@
-# Мой бэкенд:
-https://mnemontov-backend.nomorepartiesco.ru/admin/dashboard
-Фронтенд:
-https://mnemontov-front.nomorep.nomorepartiesco.ru/
-Репозиторий бэкенд:
-https://github.com/NemontovMaksim/kb-backend-m.git
+# Финальное ревью
+Ссылка на репозиторий бэкенд: https://github.com/NemontovMaksim/kb-backend-m.git
+Ссылка на домен бэкенда: https://mnemontov-backend.nomorepartiesco.ru/admin/dashboard
+IP-адрес: 158.160.171.137
+
+~~
+Ссылка на домен фронтенда: https://mnemontov-front.nomorep.nomorepartiesco.ru/
